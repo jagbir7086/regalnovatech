@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin
 Disallow: /dashboard
 
-Sitemap: https://regaltechnova.online/sitemap.xml
+Sitemap: https://regalnovatech.online/sitemap.xml
