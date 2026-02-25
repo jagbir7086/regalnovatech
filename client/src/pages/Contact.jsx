@@ -68,18 +68,23 @@ const Contact = () => {
 
                             <div style={{ marginBottom: '2rem' }}>
                                 <h4 style={{ marginBottom: '0.5rem', color: 'var(--primary)' }}>Headquarters</h4>
-                                <p style={{ color: 'var(--text-main)' }}>Kanta Toli</p>
-                                <p style={{ color: 'var(--text-muted)' }}>Ranchi, Jharkhand</p>
+                                <p style={{ color: 'var(--text-main)' }}>Kanta Toli, Ranchi</p>
+                                <p style={{ color: 'var(--text-muted)' }}>Jharkhand - 834001</p>
                             </div>
 
                             <div style={{ marginBottom: '2rem' }}>
                                 <h4 style={{ marginBottom: '0.5rem', color: 'var(--primary)' }}>Email</h4>
-                                <p style={{ color: 'var(--text-main)' }}>info@regalnovatech.com</p>
+                                <p style={{ color: 'var(--text-main)' }}>contact@regalnovatech.com</p>
+                            </div>
+
+                            <div style={{ marginBottom: '2rem' }}>
+                                <h4 style={{ marginBottom: '0.5rem', color: 'var(--primary)' }}>Website</h4>
+                                <p style={{ color: 'var(--text-main)' }}>www.regalnovatech.com</p>
                             </div>
 
                             <div style={{ marginBottom: '2rem' }}>
                                 <h4 style={{ marginBottom: '0.5rem', color: 'var(--primary)' }}>Phone</h4>
-                                <p style={{ color: 'var(--text-main)' }}>+1 (555) 123-4567</p>
+                                <p style={{ color: 'var(--text-main)' }}>+91 XXXXX XXXXX</p>
                             </div>
                         </div>
 

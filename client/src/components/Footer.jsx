@@ -19,8 +19,9 @@ const Footer = () => {
                         </p>
                         <p style={{ marginTop: '1rem', fontSize: '0.9rem' }}>
                             <strong>Address:</strong><br />
-                            Kanta Toli, Ranchi,<br />
-                            Jharkhand
+                            Kanta Toli, Ranchi, Jharkhand<br />
+                            <strong>Email:</strong> contact@regalnovatech.com<br />
+                            <strong>Phone:</strong> +91 XXXXX XXXXX
                         </p>
                     </div>
 
